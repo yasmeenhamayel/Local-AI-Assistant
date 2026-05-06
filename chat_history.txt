@@ -1,0 +1,10 @@
+user|hi
+assistant|Hi there! How can I help you today?
+user|how are you
+assistant|I am doing great, thank you! How about you?
+user|something
+assistant|Hi there! How can I help you today?
+user|gthe
+assistant|That's cool! Ask me something else like 'What is your name?' or 'How do you work?'
+user|jokflds
+assistant|That's cool! Ask me something else like 'What is your name?' or 'How do you work?'
